@@ -29,7 +29,7 @@ BenchmarkReadHeaderV2/TCP4-Minimal-8             3066440               396 ns/op
 ## Installation
 
 ```bash
-$ go get github.com/mailgun/proxyproto
+$ go get github.com/stratumfarm/proxyproto
 ```
 
 ## Usage

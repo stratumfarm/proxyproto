@@ -2,13 +2,14 @@ package main
 
 import (
 	"fmt"
-	"github.com/davecgh/go-spew/spew"
-	"github.com/mailgun/proxyproto"
-	"github.com/pkg/errors"
-	"github.com/thrawn01/args"
 	"io/ioutil"
 	"net"
 	"os"
+
+	"github.com/davecgh/go-spew/spew"
+	"github.com/pkg/errors"
+	"github.com/stratumfarm/proxyproto"
+	"github.com/thrawn01/args"
 )
 
 func main() {
